@@ -1,4 +1,4 @@
-alert("The test extension is up and running")
+alert("The jinx extension is up and running")
 
 var images = document.getElementsByTagName('img')
 
